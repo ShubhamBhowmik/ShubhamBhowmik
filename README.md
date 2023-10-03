@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubham Bhowmik
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me shu.pom7.sb@gmail.com
 
